@@ -11,9 +11,8 @@ This is run using VBA. It has been made on Windows but I can't see why it won't 
 - Save the two .bas files in the gradesheetmaker and pdfmaker folders to your machine
 - Open a blank Excel file and save (anywhere) as a .xlsm (macro enabled) file
 - Click on the Developer tab then Visual Basic which opens a new window
-- Right click the modules folder on the left
 
-![](img/img1.png)
+ ![Right click the modules folder on the left](img/img1.png)
 
 - Choose import and pick each of the two .bas files (need to do this twice)
 
