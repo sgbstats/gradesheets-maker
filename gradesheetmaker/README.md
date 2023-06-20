@@ -7,9 +7,7 @@
 - Close all other excel files
 
 ## Start
-- Open the module by double clicking the module name on the right
-
-![](img/img2.png)
+![Open the module by double clicking the module name on the right](img/img2.PNG)
 
 - You will need to edit the code in the editor that should be open on your screen.
 
@@ -23,9 +21,8 @@
 
 - Set the pattern for the student file (Line 56). You may have to configure your list of students if you want to do _surname firstname_ for example.
 
-- Press play or F5 to run
 
-![](img/img3.png)
+![Press play or F5 to run](img/img3.PNG)
 
 
 
