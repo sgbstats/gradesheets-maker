@@ -12,6 +12,7 @@ This is run using VBA. It has been made on Windows but I can't see why it won't 
 - Enable developer mode on Excel [(File, Options, Customize the Ribbon, tick Developer)](https://support.microsoft.com/en-us/office/show-the-developer-tab-e1192344-5e56-4d45-931b-e5fd9bea2d45)
 
 - Download the gradesheet_and_pdf_maker.xlsm file from the files above, save it and open if
+- Enable macro content
 - Click on the Developer tab then Visual Basic which opens a new window
 - Double click the gradesheetmaker module and then go the the README in the gradesheetmaker folder
 
