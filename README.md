@@ -1,4 +1,4 @@
-# gradesheets-maker
+# gradesheetsmaker
 A smol repo for making gradesheets and then converting the finished ones to pdfs. This should preserve any formulas that you have in your templates.
 
 Feel free to use this how you like but do expect issues down the line. Either fix them yourself (and contribute to this repo) or let me know and I can work on a fix.
