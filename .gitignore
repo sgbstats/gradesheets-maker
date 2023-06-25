@@ -50,5 +50,5 @@ rsconnect/
 
 *.html
 
-gradesheetmaker/*
-pdfmaker/*
+gradesheetmaker/
+pdfmaker/
